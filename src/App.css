@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(30 41 59);
+}
+
+.check{
+    width: 20px;
+    height: 20px;
+    background-color: rgb(77 124 15);
+}
